@@ -1,0 +1,5 @@
+/home/zero1/Desktop/codenshit/CodeRunnerRPE/SecurityLibrary/CsharpSecurityLibrary/CsharpSecurityLibrary/obj/Debug/net9.0/CsharpSecurityLibrary.csproj.AssemblyReference.cache
+/home/zero1/Desktop/codenshit/CodeRunnerRPE/SecurityLibrary/CsharpSecurityLibrary/CsharpSecurityLibrary/obj/Debug/net9.0/CsharpSecurityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/zero1/Desktop/codenshit/CodeRunnerRPE/SecurityLibrary/CsharpSecurityLibrary/CsharpSecurityLibrary/obj/Debug/net9.0/CsharpSecurityLibrary.AssemblyInfoInputs.cache
+/home/zero1/Desktop/codenshit/CodeRunnerRPE/SecurityLibrary/CsharpSecurityLibrary/CsharpSecurityLibrary/obj/Debug/net9.0/CsharpSecurityLibrary.AssemblyInfo.cs
+/home/zero1/Desktop/codenshit/CodeRunnerRPE/SecurityLibrary/CsharpSecurityLibrary/CsharpSecurityLibrary/obj/Debug/net9.0/CsharpSecurityLibrary.csproj.CoreCompileInputs.cache

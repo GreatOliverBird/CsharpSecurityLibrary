@@ -1,0 +1,12 @@
+/home/zero1/Desktop/codenshit/CodeRunnerRPE/SecurityLibrary/CsharpSecurityLibrary/CsharpSecurityLibrary/bin/Debug/net8.0/CsharpSecurityLibrary.deps.json
+/home/zero1/Desktop/codenshit/CodeRunnerRPE/SecurityLibrary/CsharpSecurityLibrary/CsharpSecurityLibrary/bin/Debug/net8.0/CsharpSecurityLibrary.dll
+/home/zero1/Desktop/codenshit/CodeRunnerRPE/SecurityLibrary/CsharpSecurityLibrary/CsharpSecurityLibrary/bin/Debug/net8.0/CsharpSecurityLibrary.pdb
+/home/zero1/Desktop/codenshit/CodeRunnerRPE/SecurityLibrary/CsharpSecurityLibrary/CsharpSecurityLibrary/obj/Debug/net8.0/CsharpSecurityLibrary.csproj.AssemblyReference.cache
+/home/zero1/Desktop/codenshit/CodeRunnerRPE/SecurityLibrary/CsharpSecurityLibrary/CsharpSecurityLibrary/obj/Debug/net8.0/CsharpSecurityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/zero1/Desktop/codenshit/CodeRunnerRPE/SecurityLibrary/CsharpSecurityLibrary/CsharpSecurityLibrary/obj/Debug/net8.0/CsharpSecurityLibrary.AssemblyInfoInputs.cache
+/home/zero1/Desktop/codenshit/CodeRunnerRPE/SecurityLibrary/CsharpSecurityLibrary/CsharpSecurityLibrary/obj/Debug/net8.0/CsharpSecurityLibrary.AssemblyInfo.cs
+/home/zero1/Desktop/codenshit/CodeRunnerRPE/SecurityLibrary/CsharpSecurityLibrary/CsharpSecurityLibrary/obj/Debug/net8.0/CsharpSecurityLibrary.csproj.CoreCompileInputs.cache
+/home/zero1/Desktop/codenshit/CodeRunnerRPE/SecurityLibrary/CsharpSecurityLibrary/CsharpSecurityLibrary/obj/Debug/net8.0/CsharpSecurityLibrary.dll
+/home/zero1/Desktop/codenshit/CodeRunnerRPE/SecurityLibrary/CsharpSecurityLibrary/CsharpSecurityLibrary/obj/Debug/net8.0/refint/CsharpSecurityLibrary.dll
+/home/zero1/Desktop/codenshit/CodeRunnerRPE/SecurityLibrary/CsharpSecurityLibrary/CsharpSecurityLibrary/obj/Debug/net8.0/CsharpSecurityLibrary.pdb
+/home/zero1/Desktop/codenshit/CodeRunnerRPE/SecurityLibrary/CsharpSecurityLibrary/CsharpSecurityLibrary/obj/Debug/net8.0/ref/CsharpSecurityLibrary.dll
